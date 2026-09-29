@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Submit your project details after purchasing a Richard Feng creative video package.">
+  <meta name="robots" content="noindex, follow, noarchive">
+  <meta name="theme-color" content="#090a0c">
+  <title>Start Your Project | Mr.Feng No Sleep</title>
+  <link rel="canonical" href="https://richardfengcreative.pages.dev/project-start.html">
+  <link rel="stylesheet" href="styles.css?v=13">
+</head>
+<body class="project-start-page">
+  <header class="site-header project-header">
+    <a class="brand" href="/" aria-label="Mr.Feng No Sleep | Richard Feng, home">
+      <span class="brand-mark">RF</span><span class="brand-name"><strong>Mr.Feng No Sleep</strong><small>Richard Feng</small></span>
+    </a>
+    <a class="project-back" href="/">Back to website / 返回网站</a>
+  </header>
+
+  <main class="project-start-main">
+    <section class="project-start-copy">
+      <p class="eyebrow"><span></span> Payment complete · 付款完成</p>
+      <h1>Let’s start your<br><em>creative project.</em></h1>
+      <p>Thank you for your purchase. Complete this brief once, and I’ll use it to begin production—no discovery call required.</p>
+      <p class="project-zh">感谢购买。请一次性填写项目资料，我会据此开始制作，无需预约线上沟通。</p>
+      <div class="selected-plan"><small>Selected package / 已购套餐</small><strong id="selected-plan">Creative Video Package</strong></div>
+    </section>
+
+    <form class="lead-form project-form" id="project-form" action="https://formspree.io/f/xppwoyob" method="POST">
+      <input type="hidden" name="_subject" value="Paid client project brief from richardfengcreative.pages.dev">
+      <input type="hidden" name="purchased_package" id="purchased-package" value="Creative Video Package">
+      <div class="field-row">
+        <label><span>Name / 姓名 *</span><input type="text" name="name" autocomplete="name" required></label>
+        <label><span>Email / 邮箱 *</span><input type="email" name="email" autocomplete="email" required></label>
+      </div>
+      <div class="field-row">
+        <label><span>Business / 品牌或公司 *</span><input type="text" name="company" autocomplete="organization" required></label>
+        <label><span>Website or social link / 网站或社媒</span><input type="url" name="website" placeholder="https://"></label>
+      </div>
+      <label><span>What are we promoting? / 推广内容 *</span><textarea name="offer" rows="4" placeholder="Product, service, property, event, or message… / 产品、服务、房产、活动或核心信息……" required></textarea></label>
+      <label><span>Audience and goal / 受众与目标 *</span><textarea name="audience_goal" rows="4" placeholder="Who should watch, and what should they do next? / 谁会观看，希望他们采取什么行动？" required></textarea></label>
+      <div class="field-row">
+        <label><span>Platform / 发布平台 *</span><select name="platform" required><option value="">Select / 请选择</option><option>TikTok</option><option>Instagram Reels</option><option>Facebook</option><option>YouTube Shorts</option><option>Xiaohongshu / 小红书</option><option>Multiple platforms / 多平台</option><option>Other / 其他</option></select></label>
+        <label><span>Video language / 视频语言 *</span><select name="language" required><option value="">Select / 请选择</option><option>English</option><option>中文</option><option>English + 中文</option><option>Other / 其他</option></select></label>
+      </div>
+      <label><span>Assets link / 素材链接</span><input type="url" name="assets_link" placeholder="Google Drive, Dropbox, OneDrive…"></label>
+      <label><span>Must-include details / 必须出现的信息</span><textarea name="must_include" rows="3" placeholder="Logo, address, price, dates, CTA, required wording… / Logo、地址、价格、日期、行动号召、指定文案……"></textarea></label>
+      <label><span>References and notes / 参考与补充</span><textarea name="notes" rows="3" placeholder="Paste reference links or describe the visual style you like. / 粘贴参考链接，或描述喜欢的视觉风格。"></textarea></label>
+      <button class="button form-submit" type="submit">Submit Project Brief / 提交项目资料 <span>→</span></button>
+      <p class="form-status">Your information will be sent securely. / 资料将安全提交。</p>
+    </form>
+  </main>
+
+  <footer class="site-footer"><span>© 2026 Richard Feng</span><span>Mr.Feng No Sleep Advertising Agency LLC</span></footer>
+  <script>
+    const plans = {
+      trial: '15-Second Trial Video — $49',
+      '30-second': '30-Second Creative Video — $199',
+      '60-second': '60-Second Brand Video — $349',
+      monthly: 'Monthly Package — 8 Videos — $1,199/month'
+    };
+    const plan = plans[new URLSearchParams(location.search).get('plan')] || 'Creative Video Package';
+    document.getElementById('selected-plan').textContent = plan;
+    document.getElementById('purchased-package').value = plan;
+  </script>
+</body>
+</html>

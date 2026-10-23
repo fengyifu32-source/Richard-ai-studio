@@ -11,6 +11,7 @@ Richard Feng Creative is a Houston-based AI video advertising studio serving bus
 - Vertical social video for Instagram, TikTok, Facebook, YouTube Shorts and Xiaohongshu
 - Nationwide remote production for clients across the United States
 - English and Chinese bilingual video campaigns
+- Chinese-language service pages for Chinese-speaking business owners in the United States
 
 ## Industries represented in the portfolio
 
@@ -29,6 +30,15 @@ Richard Feng Creative is a Houston-based AI video advertising studio serving bus
 - AI commercial video production: https://richardfengcreative.pages.dev/ai-commercial-video-production/
 - English and Chinese bilingual video ads: https://richardfengcreative.pages.dev/bilingual-video-ads/
 - Small-business video advertising: https://richardfengcreative.pages.dev/industries/small-business-video-ads/
+- 中文AI视频广告服务: https://richardfengcreative.pages.dev/zh/ai-video-advertising-agency/
+- 中文短视频广告制作: https://richardfengcreative.pages.dev/zh/short-form-video-ads/
+- 中文AI商业广告视频: https://richardfengcreative.pages.dev/zh/ai-commercial-video-production/
+- 中英双语视频广告: https://richardfengcreative.pages.dev/zh/bilingual-video-ads/
+- 房地产视频广告: https://richardfengcreative.pages.dev/zh/industries/real-estate-video-ads/
+- 律师事务所视频广告: https://richardfengcreative.pages.dev/zh/industries/law-firm-video-ads/
+- 牙医诊所视频广告: https://richardfengcreative.pages.dev/zh/industries/dental-video-ads/
+- 保险视频广告: https://richardfengcreative.pages.dev/zh/industries/insurance-video-ads/
+- 医美短视频广告: https://richardfengcreative.pages.dev/zh/industries/med-spa-video-ads/
 - AI video production in Houston: https://richardfengcreative.pages.dev/services/ai-video-production-houston/
 - Real estate video ads: https://richardfengcreative.pages.dev/industries/real-estate-video-ads-houston/
 - Law firm video ads: https://richardfengcreative.pages.dev/industries/law-firm-video-ads-houston/

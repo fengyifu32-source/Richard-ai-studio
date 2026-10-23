@@ -1,6 +1,6 @@
 # Richard Feng Creative
 
-Richard Feng Creative is a Houston-based AI video advertising studio led by Richard Feng, also known as 小疯未眠 and Mr.Feng No Sleep.
+Richard Feng Creative is a Houston-based AI video advertising studio serving businesses across the United States. It is led by Richard Feng, also known as 小疯未眠 and Mr.Feng No Sleep.
 
 ## Core service
 
@@ -9,7 +9,8 @@ Richard Feng Creative is a Houston-based AI video advertising studio led by Rich
 - Creative direction and scripting
 - AI visual production and editing
 - Vertical social video for Instagram, TikTok, Facebook, YouTube Shorts and Xiaohongshu
-- Houston-based service with remote projects available across the United States
+- Nationwide remote production for clients across the United States
+- English and Chinese bilingual video campaigns
 
 ## Industries represented in the portfolio
 
@@ -23,6 +24,11 @@ Richard Feng Creative is a Houston-based AI video advertising studio led by Rich
 ## Important pages
 
 - Home: https://richardfengcreative.pages.dev/
+- Nationwide AI video advertising agency: https://richardfengcreative.pages.dev/ai-video-advertising-agency/
+- Short-form video ads: https://richardfengcreative.pages.dev/short-form-video-ads/
+- AI commercial video production: https://richardfengcreative.pages.dev/ai-commercial-video-production/
+- English and Chinese bilingual video ads: https://richardfengcreative.pages.dev/bilingual-video-ads/
+- Small-business video advertising: https://richardfengcreative.pages.dev/industries/small-business-video-ads/
 - AI video production in Houston: https://richardfengcreative.pages.dev/services/ai-video-production-houston/
 - Real estate video ads: https://richardfengcreative.pages.dev/industries/real-estate-video-ads-houston/
 - Law firm video ads: https://richardfengcreative.pages.dev/industries/law-firm-video-ads-houston/

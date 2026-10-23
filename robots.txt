@@ -1,10 +1,14 @@
 User-agent: Googlebot
 Allow: /
 
-User-agent: Bingbot
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: *
 Allow: /
 
 Sitemap: https://richardfengcreative.pages.dev/sitemap.xml
+Sitemap: https://richardfengcreative.pages.dev/video-sitemap.xml
